@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>settings.cfg</file>
+        <file>new_settings.cfg</file>
+    </qresource>
+</RCC>
